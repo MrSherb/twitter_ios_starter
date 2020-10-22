@@ -24,9 +24,9 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://s3.amazonaws.com/img0.recordit.co/Gz3CsrG3x7.mp4?AWSAccessKeyId=AKIAUQ5RURZ7ND2T2B6I&Expires=1603332857&Signature=THgy6GVOA6Jf%2FkOE44iJpBPrGNE%3D' />
+<img src='http://g.recordit.co/Gz3CsrG3x7.gif' />
 
-*There was a typo in changing the retweet icon to green. It works correctly, but in the gif it vanishes. *
+*There was a typo in changing the retweet icon to green. It works correctly, but in the gif it vanishes.*
 
 # Twitter - Part I
 
