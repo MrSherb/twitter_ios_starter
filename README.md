@@ -24,8 +24,8 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<img src='https://s3.amazonaws.com/img0.recordit.co/Gz3CsrG3x7.mp4?AWSAccessKeyId=AKIAUQ5RURZ7ND2T2B6I&Expires=1603332857&Signature=THgy6GVOA6Jf%2FkOE44iJpBPrGNE%3D' />
+*There was a typo in changing the retweet icon to green. It works correctly, but in the gif it vanishes. *
 
 # Twitter - Part I
 
